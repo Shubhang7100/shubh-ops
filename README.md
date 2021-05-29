@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubh-ops (Shubhang Sharma)
 - 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning python , web development , machine learning and android app development
-- 💞️ I’m looking to collaborate on ( I am in the learning phase ) 
+- 🌱 I’m currently learning python , web development and machine learning
+- 💞️ I’m looking to collaborate on open source software ( I am in the learning phase ) 
 - 📫 How to reach me : 
                      linkedin : https://www.linkedin.com/in/shubhang-sharma-1692369a/
 
